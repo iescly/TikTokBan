@@ -8,7 +8,7 @@ Version : 3.6.0
   
 ### Features
 
-
+note: first unzip the file using winrar/7-zip/or ZArchiver
 
 This is a script which reports targeted TikTok account or an TikTok video. 
 Works On
