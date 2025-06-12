@@ -72,7 +72,7 @@ No need to install git in linux or termux
 * `python3 main.py`
 
 ## Stats
-<a href="https://github.com/iEscly/TikTokBan"><img src="https://github-readme-stats.vercel.app/api?username=deadprogramers&theme=blue-green"></a>
+<a href="https://github.com/iEscly/TikTokBan"><img src="https://github-readme-stats.vercel.app/api?username=iEscly&theme=blue-green"></a>
 
 <p align="left">
   <a href="">
