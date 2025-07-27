@@ -21,7 +21,7 @@ Works On
 [+] Mass report on TikTok account
 [+] Mass report on TikTok video
 [+] Gatthering information about TikTok account
-
+licence costs:600$
 ```
 
 
